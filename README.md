@@ -1,2 +1,2 @@
-# GUI-Claculator-Python-
+# GUI-Calculator-Python-
 Pyhton Tkinter 
